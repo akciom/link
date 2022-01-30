@@ -1,0 +1,4 @@
+Copyright (c) 2010-2013 Matthias Richter
+
+MIT License
+Full license text can be found in in /src/Vector.lua
